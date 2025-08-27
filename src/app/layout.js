@@ -6,7 +6,6 @@ export const metadata = {
     title: "Mexim World - Pharma Import Export",
     description: "Global pharma import-export business",
 };
-
 export default function RootLayout({ children }) {
     return (
         <html lang="en">
