@@ -1,8 +1,41 @@
 "use client";
-import { motion } from "framer-motion";
-import { Mail, Phone, MapPin, Send } from "lucide-react";
+import { motion, AnimatePresence } from "framer-motion";
+import { Mail, Phone, MapPin, Send, CheckCircle, XCircle } from "lucide-react";
+import { useState } from "react";
 
 export default function Contact() {
+    const [form, setForm] = useState({ name: "", email: "", message: "" });
+    const [popup, setPopup] = useState({ show: false, success: false, message: "" });
+
+    const handleChange = (e) => {
+        setForm({ ...form, [e.target.name]: e.target.value });
+    };
+
+    const handleSubmit = async (e) => {
+        e.preventDefault();
+
+        try {
+            const res = await fetch("/api/contact", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(form),
+            });
+
+            const data = await res.json();
+            if (data.success) {
+                setPopup({ show: true, success: true, message: "Inquiry sent successfully!" });
+                setForm({ name: "", email: "", message: "" });
+            } else {
+                setPopup({ show: true, success: false, message: "Failed: " + data.error });
+            }
+        } catch (err) {
+            setPopup({ show: true, success: false, message: "Error sending message." });
+        }
+
+        // Auto close popup after 3 sec
+        setTimeout(() => setPopup({ show: false, success: false, message: "" }), 3000);
+    };
+
     return (
         <div className="bg-white text-gray-900">
             {/* Hero Section */}
@@ -44,17 +77,17 @@ export default function Contact() {
                 >
                     <h2 className="text-3xl font-bold text-[#0891b2]">Get in Touch</h2>
                     <p className="text-gray-600">
-                        Have questions or want to start a business discussion?
-                        Contact us and our team will respond quickly.
+                        Have questions or want to start a business discussion? Contact us
+                        and our team will respond quickly.
                     </p>
                     <div className="space-y-4">
                         <div className="flex items-center gap-4">
                             <MapPin className="w-6 h-6 text-[#0891b2]" />
-                            <span>123 Pharma Street, Ahmedabad, India</span>
+                            <span>Medilio Enterprise Private Limited</span>
                         </div>
                         <div className="flex items-center gap-4">
                             <Phone className="w-6 h-6 text-[#0891b2]" />
-                            <span>+91 98765 43210</span>
+                            <span>+91 96241 68506</span>
                         </div>
                         <div className="flex items-center gap-4">
                             <Mail className="w-6 h-6 text-[#0891b2]" />
@@ -73,27 +106,39 @@ export default function Contact() {
                     <h2 className="text-2xl font-semibold text-[#0891b2] mb-6">
                         Send Us a Message
                     </h2>
-                    <form className="space-y-4">
+                    <form className="space-y-4" onSubmit={handleSubmit}>
                         <motion.input
                             whileFocus={{ scale: 1.02 }}
                             transition={{ duration: 0.2 }}
                             type="text"
+                            name="name"
+                            value={form.name}
+                            onChange={handleChange}
                             placeholder="Your Name"
                             className="w-full p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-[#0891b2]"
+                            required
                         />
                         <motion.input
                             whileFocus={{ scale: 1.02 }}
                             transition={{ duration: 0.2 }}
                             type="email"
+                            name="email"
+                            value={form.email}
+                            onChange={handleChange}
                             placeholder="Your Email"
                             className="w-full p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-[#0891b2]"
+                            required
                         />
                         <motion.textarea
                             whileFocus={{ scale: 1.02 }}
                             transition={{ duration: 0.2 }}
+                            name="message"
+                            value={form.message}
+                            onChange={handleChange}
                             placeholder="Your Message"
                             rows="5"
                             className="w-full p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-[#0891b2]"
+                            required
                         ></motion.textarea>
                         <motion.button
                             whileHover={{ scale: 1.05 }}
@@ -112,7 +157,7 @@ export default function Contact() {
             {/* Map */}
             <section className="w-full h-[400px]">
                 <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3684.123456789!2d72.571362!3d23.022505"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3720.1006391814767!2d72.8792484!3d21.188160699999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04f309921add5%3A0xf1ed08c6130bea91!2sMedilio%20Enterprise%20Private%20Limited!5e0!3m2!1sen!2sin!4v1756289048731!5m2!1sen!2sin"
                     width="100%"
                     height="100%"
                     style={{ border: 0 }}
@@ -121,6 +166,28 @@ export default function Contact() {
                     referrerPolicy="no-referrer-when-downgrade"
                 ></iframe>
             </section>
+
+            {/* Popup Notification */}
+            <AnimatePresence>
+                {popup.show && (
+                    <motion.div
+                        initial={{ opacity: 0, y: 50 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        exit={{ opacity: 0, y: 50 }}
+                        transition={{ duration: 0.3 }}
+                        className={`fixed bottom-6 right-6 flex items-center gap-3 px-5 py-3 rounded-xl shadow-lg text-white ${
+                            popup.success ? "bg-green-600" : "bg-red-600"
+                        }`}
+                    >
+                        {popup.success ? (
+                            <CheckCircle className="w-6 h-6" />
+                        ) : (
+                            <XCircle className="w-6 h-6" />
+                        )}
+                        <span className="font-medium">{popup.message}</span>
+                    </motion.div>
+                )}
+            </AnimatePresence>
         </div>
     );
 }
