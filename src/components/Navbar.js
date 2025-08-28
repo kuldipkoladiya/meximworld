@@ -18,13 +18,13 @@ export default function Navbar() {
     ];
 
     return (
-        <nav className="bg-gradient-to-r from-blue-900 to-cyan-700 sticky top-0 z-50">
+        <nav className="bg-white sticky top-0 z-50">
             <div className="container mx-auto flex justify-between items-center px-4 py-2">
                 {/* Logo */}
                 <Link href="/" className="flex items-center">
                     {/* Desktop Logo */}
                     <Image
-                        src="/images/logo.svg"
+                        src="/images/logo.png"
                         alt="Mexim World Logo"
                         width={180}   // Increased size
                         height={60}
@@ -33,7 +33,7 @@ export default function Navbar() {
                     />
                     {/* Mobile Logo */}
                     <Image
-                        src="/images/logo.svg"
+                        src="/images/logo.png"
                         alt="Mexim World Mobile Logo"
                         width={150}
                         height={50}
@@ -43,7 +43,7 @@ export default function Navbar() {
                 </Link>
 
                 {/* Desktop Links */}
-                <ul className="hidden md:flex gap-6 font-medium text-white">
+                <ul className="hidden md:flex gap-6 font-medium text-black">
                     {links.map((link) => (
                         <li key={link.href}>
                             <Link
@@ -58,7 +58,7 @@ export default function Navbar() {
 
                 {/* Mobile Menu Button */}
                 <button
-                    className="md:hidden text-white"
+                    className="md:hidden text-black"
                     onClick={() => setIsOpen(!isOpen)}
                 >
                     {isOpen ? <X size={28} /> : <Menu size={28} />}

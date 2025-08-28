@@ -30,8 +30,8 @@ export default function Footer() {
                 <div>
                     <h2 className="text-xl font-semibold text-teal-400 mb-4">Contact</h2>
                     <p className="flex items-center gap-2 text-gray-300"><MapPin size={18} /> Surat, India</p>
-                    <p className="flex items-center gap-2 text-gray-300 mt-2"><Mail size={18} /> info@meximworld.com</p>
-                    <p className="flex items-center gap-2 text-gray-300 mt-2"><Phone size={18} /> +91 98765 43210</p>
+                    <p className="flex items-center gap-2 text-gray-300 mt-2"><Mail size={18} /> meximworld@gmail.com</p>
+                    <p className="flex items-center gap-2 text-gray-300 mt-2"><Phone size={18} /> +91 96241 68506</p>
                 </div>
 
                 {/* Social Media */}
