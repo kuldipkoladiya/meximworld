@@ -194,16 +194,16 @@ export default function Home() {
                     <div className="grid md:grid-cols-3 gap-8">
                         {[
                             {
-                                name: "Medicines",
+                                name: "Tablet",
                                 img: "/images/premium_photo-1723618881687-0826b6a5f12c.jpg",
                             },
                             {
-                                name: "Vaccines",
-                                img: "/images/mathurin-napoly-matnapo-qqyIX177sY0-unsplash.jpg",
+                                name: "Capsule",
+                                img: "/images/Capsule_photo.webp",
                             },
                             {
-                                name: "Medical Equipment",
-                                img: "/images/kristine-wook-E1_RW3HIbUw-unsplash.jpg",
+                                name: "Cream & Ointment",
+                                img: "/images/kristine-wook-E1_RW3HIbUw-unsplash.jpeg",
                             },
                         ].map((item, i) => (
                             <motion.div
@@ -212,6 +212,7 @@ export default function Home() {
                                 custom={i}
                                 className="bg-white rounded-xl shadow-md hover:shadow-xl transition overflow-hidden"
                             >
+                                <Link href="/products">
                                 <Image
                                     src={item.img}
                                     alt={item.name}
@@ -224,6 +225,7 @@ export default function Home() {
                                         {item.name}
                                     </h3>
                                 </div>
+                                </Link>
                             </motion.div>
                         ))}
                     </div>

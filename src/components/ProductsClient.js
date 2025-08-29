@@ -2,26 +2,17 @@
 
 import React, { useEffect, useState, useMemo } from "react";
 import Link from "next/link";
-import { motion, AnimatePresence } from "framer-motion";
 
-function ProductCard({ product, index }) {
+function ProductCard({ product }) {
     return (
-        <motion.div
-            layout
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: -20 }}
-            transition={{ duration: 0.35, delay: index * 0.05 }}
-            whileHover={{ y: -6, scale: 1.02 }}
-            className="bg-white rounded-xl shadow-md hover:shadow-xl overflow-hidden border border-gray-200 transition-all"
-        >
+        <div className="bg-white rounded-xl shadow-md hover:shadow-xl overflow-hidden border border-gray-200 transition-all">
             <Link href={`/products/${product.id}`} className="block">
                 {/* Image */}
                 <div className="relative w-full h-48 sm:h-56 overflow-hidden bg-gray-50">
                     <img
                         src={product.image}
                         alt={product.name}
-                        className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500"
+                        className="w-full h-full object-contain"
                     />
                 </div>
 
@@ -37,7 +28,7 @@ function ProductCard({ product, index }) {
                     )}
                 </div>
             </Link>
-        </motion.div>
+        </div>
     );
 }
 
@@ -64,7 +55,7 @@ export default function ProductsClient() {
             new Set(products.map((p) => p.category || "Uncategorized"))
         );
 
-        // your desired order (force include "All products")
+        // desired order (force include "All products")
         const order = ["All products", "Tablet", "Capsule", "Cream & Ointment", "Sachet"];
 
         // place categories according to order
@@ -78,7 +69,8 @@ export default function ProductsClient() {
 
     const filtered = useMemo(() => {
         return products.filter((p) => {
-            const matchCategory = category === "All products" || (p.category === category);
+            const matchCategory =
+                category === "All products" || p.category === category;
             const matchSearch =
                 !search ||
                 (p.name && p.name.toLowerCase().includes(search.toLowerCase()));
@@ -125,16 +117,11 @@ export default function ProductsClient() {
             </div>
 
             {/* Grid */}
-            <AnimatePresence>
-                <motion.div
-                    layout
-                    className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6"
-                >
-                    {filtered.map((p, i) => (
-                        <ProductCard key={`${p.id}-${i}`} product={p} index={i} />
-                    ))}
-                </motion.div>
-            </AnimatePresence>
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+                {filtered.map((p, i) => (
+                    <ProductCard key={`${p.id}-${i}`} product={p} />
+                ))}
+            </div>
         </div>
     );
 }
