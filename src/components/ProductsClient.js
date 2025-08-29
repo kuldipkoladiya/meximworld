@@ -60,18 +60,20 @@ export default function ProductsClient() {
     }, []);
 
     const categories = useMemo(() => {
-        const cats = Array.from(new Set(products.map((p) => p.category || "Uncategorized")));
+        const cats = Array.from(
+            new Set(products.map((p) => p.category || "Uncategorized"))
+        );
 
-        // your desired order
-        const order = ["All products", "Tablet","Capsule", "Cream & Ointment", "Sachet"];
+        // your desired order (force include "All products")
+        const order = ["All products", "Tablet", "Capsule", "Cream & Ointment", "Sachet"];
 
         // place categories according to order
-        const sorted = order.filter((c) => cats.includes(c));
+        const sorted = order.filter((c) => c === "All products" || cats.includes(c));
 
         // add any extra categories (not in order) at the end
         const extras = cats.filter((c) => !order.includes(c)).sort();
 
-        return [...sorted, ...extras];
+        return ["All products", ...sorted.filter((c) => c !== "All products"), ...extras];
     }, [products]);
 
     const filtered = useMemo(() => {
