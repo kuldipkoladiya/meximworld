@@ -1,0 +1,3028 @@
+[
+  {
+    "id": "product-1",
+    "name": "ACEBROZ-AC TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ACEBROZ-AC TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "1",
+      "BRAND NAME": "ACEBROZ-AC TAB",
+      "CONTAIN": "N-acetylcysteine 600 mg + acebrophylline 100 mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "200",
+      "BOX PACK": "10*1*10 TAB"
+    }
+  },
+  {
+    "id": "product-2",
+    "name": "ACETEAL-T TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ACETEAL-T TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "2",
+      "BRAND NAME": "ACETEAL-T TAB",
+      "CONTAIN": "N-Acetylcyst 150 Mg + Taurine 5 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "110",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-3",
+    "name": "ACLOZ-MR TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ACLOZ-MR TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "3",
+      "BRAND NAME": "ACLOZ-MR TAB",
+      "CONTAIN": "Aceclofenac 100 mg + Paracetamol 325 Mg + Chlorzoxazone 15 Mg\nTablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "100",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-4",
+    "name": "ACLOZ-SP TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ACLOZ-SP TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "4",
+      "BRAND NAME": "ACLOZ-SP TAB",
+      "CONTAIN": "Aceclofenac 100 mg + Paracetamol 325 Mg + Serratiopeptidase 15 Mg\nTablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "110",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-5",
+    "name": "ACLOZ-TH4 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ACLOZ-TH4 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "5",
+      "BRAND NAME": "ACLOZ-TH4 TAB",
+      "CONTAIN": "Aceclofenac 100 mg + Thiocolchicoside 4 mg Tablet",
+      "PACK": "1*10 TAB (AA)(MONO)",
+      "MRP": "225",
+      "BOX PACK": "10*1*10 TAB"
+    }
+  },
+  {
+    "id": "product-6",
+    "name": "AMLOAL-AT TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/AMLOAL-AT TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "6",
+      "BRAND NAME": "AMLOAL-AT TAB",
+      "CONTAIN": "Amlodipine 5 Mg + Atenolol 50 Mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "50",
+      "BOX PACK": "20*10 TAB"
+    }
+  },
+  {
+    "id": "product-7",
+    "name": "AMLOAZ 2.5 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/AMLOZ 2.5 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "7",
+      "BRAND NAME": "AMLOAZ 2.5 TAB",
+      "CONTAIN": "Amlodipine 2.5 mg Tablet",
+      "PACK": "1*10 TAB ( BL)",
+      "MRP": "25",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-8",
+    "name": "AMLOAZ 5 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/AMLOZ 5 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "8",
+      "BRAND NAME": "AMLOAZ 5 TAB",
+      "CONTAIN": "Amlodipine 5 Mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "28",
+      "BOX PACK": "20*10 TAB"
+    }
+  },
+  {
+    "id": "product-9",
+    "name": "ATORIZ 10 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ATORIZ 10 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "9",
+      "BRAND NAME": "ATORIZ 10 TAB",
+      "CONTAIN": "Atorvastatin 10 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "55",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-10",
+    "name": "ATORIZ 40 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ATORIZ 40 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "10",
+      "BRAND NAME": "ATORIZ 40 TAB",
+      "CONTAIN": "Atorvastatin 40 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "160",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-11",
+    "name": "ATORIZ-A 10/75 CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/ATORIZ-A 10-75 CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "11",
+      "BRAND NAME": "ATORIZ-A 10/75 CAP",
+      "CONTAIN": "Atorvastatin 10 mg + Aspirin 75 mg Capsule",
+      "PACK": "1*10 CAP (ALM)",
+      "MRP": "40",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-12",
+    "name": "ATORIZ-A 20/75 CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/ATORIZ-A 20-75 CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "12",
+      "BRAND NAME": "ATORIZ-A 20/75 CAP",
+      "CONTAIN": "Atorvastatin 20 mg + Aspirin 75 mg Capsule",
+      "PACK": "1*10 CAP (ALM)",
+      "MRP": "43",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-13",
+    "name": "ATORIZ-GOLD 10 CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/ATORIZ-GOLD 10 CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "13",
+      "BRAND NAME": "ATORIZ-GOLD 10 CAP",
+      "CONTAIN": "Atorvastatin 10 mg + Aspirin 75 mg + Clopidogrel 75 mg Capsule",
+      "PACK": "1*10 CAP (AA)",
+      "MRP": "60",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-14",
+    "name": "ATORIZ-GOLD 20 CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/ATORIZ-GOLD 20 CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "14",
+      "BRAND NAME": "ATORIZ-GOLD 20 CAP",
+      "CONTAIN": "Atorvastatin 20 mg + Aspirin 75 mg + Clopidogrel 75 mg Capsule",
+      "PACK": "1*10 CAP (AA)",
+      "MRP": "85",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-15",
+    "name": "AZATHOL 50 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/AZATHOL 50 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "15",
+      "BRAND NAME": "AZATHOL 50 TAB",
+      "CONTAIN": "Azathioprine 50 mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "110",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-16",
+    "name": "BECOZEAL-PLUS CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/BECOZEAL-PLUS CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "16",
+      "BRAND NAME": "BECOZEAL-PLUS CAP",
+      "CONTAIN": "Vitamin B-Complex + Mineral + Trace Elements Capsule",
+      "PACK": "1*10 CAP (ALM)",
+      "MRP": "110",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-17",
+    "name": "BILAZEAL-M TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/BILAZEAL-M TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "17",
+      "BRAND NAME": "BILAZEAL-M TAB",
+      "CONTAIN": "Bilastine 20 mg + Montelukast 10 mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "170",
+      "BOX PACK": "10*1*10 TAB"
+    }
+  },
+  {
+    "id": "product-18",
+    "name": "BISOP 5 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/BISOP 5 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "18",
+      "BRAND NAME": "BISOP 5 TAB",
+      "CONTAIN": "Bisoprolol 5 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "65",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-19",
+    "name": "CALCIZEAL 500 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/CALCIZEAL 500 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "19",
+      "BRAND NAME": "CALCIZEAL 500 TAB",
+      "CONTAIN": "Calcium 500 Mg + Vitamin D3 250 IU Tablet",
+      "PACK": "1*15 TAB (BL)",
+      "MRP": "90",
+      "BOX PACK": "20*15 TAB"
+    }
+  },
+  {
+    "id": "product-20",
+    "name": "CALCIZEAL-CT CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/CALCIZEAL-CT CAPSULE.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "20",
+      "BRAND NAME": "CALCIZEAL-CT CAP",
+      "CONTAIN": "Calcium Carbonate 500 Mg + Calcitriol 0.25 Mcg + Zinc 7.5 Mg Capsule",
+      "PACK": "1*10 CAP (BL)",
+      "MRP": "190",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-21",
+    "name": "CALCIZEAL-D3 60K CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/CALCIZEAL-D3 60K CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "21",
+      "BRAND NAME": "CALCIZEAL-D3 60K CAP",
+      "CONTAIN": "Cholecalciferol (Vitamin D3) 60000 IU Capsule",
+      "PACK": "1*4 SG CAP(MONO)",
+      "MRP": "135",
+      "BOX PACK": "10*1*4 CAP"
+    }
+  },
+  {
+    "id": "product-22",
+    "name": "CALCIZEAL-D3 SACHET",
+    "category": "Sachet",
+    "sku": "",
+    "image": "/images/products/CALCIZEAL-D3 60K SACHETS.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "22",
+      "BRAND NAME": "CALCIZEAL-D3 SACHET",
+      "CONTAIN": "Cholecalciferol (Vitamin D3) 60000 IU Sachet",
+      "PACK": "1*10 SACHET",
+      "MRP": "38",
+      "BOX PACK": "10*1 GM"
+    }
+  },
+  {
+    "id": "product-23",
+    "name": "CALCIZEAL-K2 7M TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/CALCIZEAL-K2 7M TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "23",
+      "BRAND NAME": "CALCIZEAL-K2 7M TAB",
+      "CONTAIN": "Calcium Citrate 1000 Mg + Calcitriol 0.25Mcg + Vitamin K2-7 45 Mcg + Magnesium 50Mg + Zinc 7.5 Mg + Methylcobalamin 1000 Mg + L- Methylfolate Calcium Tablet",
+      "PACK": "1*10 TAB (MONO)",
+      "MRP": "160",
+      "BOX PACK": "10*1*10 TAB"
+    }
+  },
+  {
+    "id": "product-24",
+    "name": "CALCIZEAL-ROSE TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/CALCIZEAL-ROSE TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "24",
+      "BRAND NAME": "CALCIZEAL-ROSE TAB",
+      "CONTAIN": "Glucosamine Sulphate 500 Mg + Collagen Peptide Type-II 200 Mg + Chondroitin Sulphate Sodium 100 Mg + Rosehip Extract 10 Mg + Ginger Extract 10 Mg + Boswellia Extract 2 Mg + Vitamin D3 200 IU + Vitamin B12- 1 Mcg + Zinc 5 Mg + Copper 1 Mcg + Sodium Hyaluronate 30 Mg Tablet",
+      "PACK": "1*10 TAB (MONO)",
+      "MRP": "325",
+      "BOX PACK": "10*1*10 TAB"
+    }
+  },
+  {
+    "id": "product-25",
+    "name": "CALCIZEAL-SUPER TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/CALCIZEAL SUPER TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "25",
+      "BRAND NAME": "CALCIZEAL-SUPER TAB",
+      "CONTAIN": "Calcium Citrate 1000 Mg + Vitamin D3 200 Iu + Magnesium 100 Mg + Zinc 4 Mg Tablet",
+      "PACK": "1*15 TAB (BL)",
+      "MRP": "170",
+      "BOX PACK": "10*15 TAB"
+    }
+  },
+  {
+    "id": "product-26",
+    "name": "CILNIZ 10 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/CILNIZ 10 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "26",
+      "BRAND NAME": "CILNIZ 10 TAB",
+      "CONTAIN": "Cilnidipine 10 mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "75",
+      "BOX PACK": "20*10 TAB"
+    }
+  },
+  {
+    "id": "product-27",
+    "name": "CILNIZ 20 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/CILNIZ 20 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "27",
+      "BRAND NAME": "CILNIZ 20 TAB",
+      "CONTAIN": "Cilnidipine 20 mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "140",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-28",
+    "name": "CILNIZ-T 40 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/CILNIZ-T 40 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "28",
+      "BRAND NAME": "CILNIZ-T 40 TAB",
+      "CONTAIN": "Telmisartan 40 Mg + Cilnidipine 10 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "100",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-29",
+    "name": "CITIZEAL-P 800 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/CITIZEAL-P 800 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "29",
+      "BRAND NAME": "CITIZEAL-P 800 TAB",
+      "CONTAIN": "Citicoline 500 Mg + piracetam 800 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "800",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-30",
+    "name": "CLOPIZEAL 75 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/CLOPIZEAL 75 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "30",
+      "BRAND NAME": "CLOPIZEAL 75 TAB",
+      "CONTAIN": "Clopidogrel 75 Mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "55",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-31",
+    "name": "CLOPIZEAL-A 75 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/CLOPIZEAL-A 75 TAB .jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "31",
+      "BRAND NAME": "CLOPIZEAL-A 75 TAB",
+      "CONTAIN": "Clopidogrel 75 mg + Aspirin 75 mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "38",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-32",
+    "name": "DAPAZEAL 10 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/DAPAZEAL 10 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "32",
+      "BRAND NAME": "DAPAZEAL 10 TAB",
+      "CONTAIN": "Dapagliflozin 10 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "220",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-33",
+    "name": "DAPAZEAL-M 10/500 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/DAPAZEAL-M 10-500 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "33",
+      "BRAND NAME": "DAPAZEAL-M 10/500 TAB",
+      "CONTAIN": "Dapagliflozin 10 Mg + Metformin 500 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "240",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-34",
+    "name": "DAPAZEAL-VG 10/100 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/DAPAZEAL-VG 10-100 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "34",
+      "BRAND NAME": "DAPAZEAL-VG 10/100 TAB",
+      "CONTAIN": "Dapagliflozin 10 Mg + Vildagliptin 100 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "240",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-35",
+    "name": "DEFAZ 6 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/DEFAZ 6 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "35",
+      "BRAND NAME": "DEFAZ 6 TAB",
+      "CONTAIN": "Deflazacort 6 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "130",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-36",
+    "name": "DICLOZEAL 50 MG GEL",
+    "category": "Cream & Ointment",
+    "sku": "",
+    "image": "/images/products/DICLOZEAL 50 GM GEL.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "36",
+      "BRAND NAME": "DICLOZEAL 50 MG GEL",
+      "CONTAIN": "Diclofenac 1.16 % + Linseed Oil 3 % + Methyl Salicylate 10% + Menthol 5\n% Gel",
+      "PACK": "50 GM",
+      "MRP": "170",
+      "BOX PACK": "10*50 GM"
+    }
+  },
+  {
+    "id": "product-37",
+    "name": "E-VITAZ 400 CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/E-VITAZ 400 CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "37",
+      "BRAND NAME": "E-VITAZ 400 CAP",
+      "CONTAIN": "Vitamin E 400 Capsule (SOFT GELATIN)",
+      "PACK": "1*10 SG CAP (3 MONO)",
+      "MRP": "90",
+      "BOX PACK": "10*3*10 CAP"
+    }
+  },
+  {
+    "id": "product-38",
+    "name": "ECITOZ 10 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ECITOZ 10 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "38",
+      "BRAND NAME": "ECITOZ 10 TAB",
+      "CONTAIN": "Escitalopram 10 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "80",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-39",
+    "name": "ECITOZ-FORTE TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ECITOZ-FORTE TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "39",
+      "BRAND NAME": "ECITOZ-FORTE TAB",
+      "CONTAIN": "Escitalopram 10 Mg + Clonazepam 0.5 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "110",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-40",
+    "name": "ESOZEAL 40 MG TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ESOZEAL 40 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "40",
+      "BRAND NAME": "ESOZEAL 40 MG TAB",
+      "CONTAIN": "Esomeprazole 40 Mg (Gestro-Resistant) Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "100",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-41",
+    "name": "ESOZEAL-DSR CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/ESOZEAL-DSR CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "41",
+      "BRAND NAME": "ESOZEAL-DSR CAP",
+      "CONTAIN": "Esomeprazole 40 Mg + Domperidone 30 Mg Capsule",
+      "PACK": "1*10 CAP (AA)",
+      "MRP": "150",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-42",
+    "name": "ETORIZ 90 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ETORIZ 90 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "42",
+      "BRAND NAME": "ETORIZ 90 TAB",
+      "CONTAIN": "Etoricoxib 90 Mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "130",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-43",
+    "name": "ETORIZ-TH4  TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ETORIZ-TH4 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "43",
+      "BRAND NAME": "ETORIZ-TH4  TAB",
+      "CONTAIN": "Etoricoxib 60 mg + Thiocolchicoside 4 mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "260",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-44",
+    "name": "FEBUZEAL 40  TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/FEBUZEAL 40 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "44",
+      "BRAND NAME": "FEBUZEAL 40  TAB",
+      "CONTAIN": "Febuxostat 40 mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "120",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-45",
+    "name": "FERZEAL-XT TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/FERZEAL-XT TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "45",
+      "BRAND NAME": "FERZEAL-XT TAB",
+      "CONTAIN": "Ferrous Ascorbate 100 Mg + Folic 1.5 Mg Tablet",
+      "PACK": "1*10 TAB (MONO)",
+      "MRP": "140",
+      "BOX PACK": "10*1*10 TAB"
+    }
+  },
+  {
+    "id": "product-46",
+    "name": "FEXOL 180 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/FEXOL 180 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "46",
+      "BRAND NAME": "FEXOL 180 TAB",
+      "CONTAIN": "Fexofenadine Hydrochloride 180 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "200",
+      "BOX PACK": "10*1*10 TAB"
+    }
+  },
+  {
+    "id": "product-47",
+    "name": "FLUPEZ-M 0.5/10 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/FLUZEAL-M 0.5-10 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "47",
+      "BRAND NAME": "FLUPEZ-M 0.5/10 TAB",
+      "CONTAIN": "Flupentixol 0.5 mg + Melitracen 10 mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "90",
+      "BOX PACK": "10*10 Tab"
+    }
+  },
+  {
+    "id": "product-48",
+    "name": "FLUZEAL 150  TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/FLUZEAL-150 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "48",
+      "BRAND NAME": "FLUZEAL 150  TAB",
+      "CONTAIN": "Fluconazole 150 mg Tablet",
+      "PACK": "1*1 TAB (BL)",
+      "MRP": "13. 5",
+      "BOX PACK": "10*5*1 TAB"
+    }
+  },
+  {
+    "id": "product-49",
+    "name": "GABAZAC-M TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/GABAZAC-M TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "49",
+      "BRAND NAME": "GABAZAC-M TAB",
+      "CONTAIN": "Gabapentin 300 mg + Methylcobalamin 500 mcg Tablet",
+      "PACK": "1*10 TAB (AA)(MONO)",
+      "MRP": "160",
+      "BOX PACK": "10*1*10 TAB"
+    }
+  },
+  {
+    "id": "product-50",
+    "name": "GABAZAC-NT 400/10 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/GABAZAC-NT 400-10 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "50",
+      "BRAND NAME": "GABAZAC-NT 400/10 TAB",
+      "CONTAIN": "Gabapentin 400 mg + Nortriptlyline hydrochloride 10 mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "200",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-51",
+    "name": "GLICAZ-M 80 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/GLICAZ-M 80 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "51",
+      "BRAND NAME": "GLICAZ-M 80 TAB",
+      "CONTAIN": "Gliclazide 80 Mg + Metformin 500 Mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "100",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-52",
+    "name": "GLICAZ 60 MR TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/GLICAZ 60 MR TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "52",
+      "BRAND NAME": "GLICAZ 60 MR TAB",
+      "CONTAIN": "Gliclazide 60 Mg (Mr) Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "120",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-53",
+    "name": "GLIMIL 1 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/GLIMIL 1 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "53",
+      "BRAND NAME": "GLIMIL 1 TAB",
+      "CONTAIN": "Glimepiride 1 Mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "40",
+      "BOX PACK": "20*10 TAB"
+    }
+  },
+  {
+    "id": "product-54",
+    "name": "GLIMIL 2 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/GLIMIL 2.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "54",
+      "BRAND NAME": "GLIMIL 2 TAB",
+      "CONTAIN": "Glimepiride 2 Mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "65",
+      "BOX PACK": "20*10 TAB"
+    }
+  },
+  {
+    "id": "product-55",
+    "name": "GLIMIL-M 0.5 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/GLIMIL-M 0.5 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "55",
+      "BRAND NAME": "GLIMIL-M 0.5 TAB",
+      "CONTAIN": "Glimepiride 0.5 mg + Metformin Hydrochloride 500 mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "65",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-56",
+    "name": "GLIMIL-M 1 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/GLIMIL-M1 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "56",
+      "BRAND NAME": "GLIMIL-M 1 TAB",
+      "CONTAIN": "Glimepiride 1 Mg + Metformin 500 Mg (SR) Tablet",
+      "PACK": "1*15 TAB (BL)",
+      "MRP": "90",
+      "BOX PACK": "10*15 TAB"
+    }
+  },
+  {
+    "id": "product-57",
+    "name": "GLIMIL-M 2 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/GLIMIL-M2 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "57",
+      "BRAND NAME": "GLIMIL-M 2 TAB",
+      "CONTAIN": "Glimepiride 2 Mg + Metformin 500 Mg (SR) Tablet",
+      "PACK": "1*15 TAB (BL)",
+      "MRP": "95",
+      "BOX PACK": "10*15 TAB"
+    }
+  },
+  {
+    "id": "product-58",
+    "name": "GLIMIL-M 3 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/GLIMIL-M3 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "58",
+      "BRAND NAME": "GLIMIL-M 3 TAB",
+      "CONTAIN": "Glimepiride 3 mg + Metformin Hydrochloride 500 mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "85",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-59",
+    "name": "GLIMIL-M 1 FORTE TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/GLIMIL-M 1 FORTE TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "59",
+      "BRAND NAME": "GLIMIL-M 1 FORTE TAB",
+      "CONTAIN": "Glimepiride 1 mg + Metformin Hydrochloride 1000 mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "75",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-60",
+    "name": "GLIMIL-M 2 FORTE TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/GLIMIL-M2 FORTE TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "60",
+      "BRAND NAME": "GLIMIL-M 2 FORTE TAB",
+      "CONTAIN": "Glimepiride 2 Mg + Metformin 1000 Mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "100",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-61",
+    "name": "GLIMIL-M 3 FORTE TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/GLIMIL-M3 FORTE TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "61",
+      "BRAND NAME": "GLIMIL-M 3 FORTE TAB",
+      "CONTAIN": "Glimepiride 3 mg + Metformin Hydrochloride 1000 mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "105",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-62",
+    "name": "GLIMIL-M 4 FORTE TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/GLIMIL-M4 FORTE TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "62",
+      "BRAND NAME": "GLIMIL-M 4 FORTE TAB",
+      "CONTAIN": "Glimepiride 4 mg + Metformin Hydrochloride 1000 mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "110",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-63",
+    "name": "GLIMIL-MV1 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/GLIMIL-MV1 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "63",
+      "BRAND NAME": "GLIMIL-MV1 TAB",
+      "CONTAIN": "Glimepiride 1 mg + Metformin Hydrochloride 500 mg + Voglibose 0.2 mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "100",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-64",
+    "name": "GLIMIL-MV2 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/GLIMIL-MV2 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "64",
+      "BRAND NAME": "GLIMIL-MV2 TAB",
+      "CONTAIN": "Glimepiride 2 mg + Metformin Hydrochloride 500 mg + Voglibose 0.2 mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "110",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-65",
+    "name": "GLIMIL-PM1 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/GLIMIL-PM1 TAB .jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "65",
+      "BRAND NAME": "GLIMIL-PM1 TAB",
+      "CONTAIN": "Glimepiride 1 Mg + Pioglitazone 15 Mg + Metformin 500 Mg (SR) Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "80",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-66",
+    "name": "GLIMIL-PM2 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/GLIMIL-PM2 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "66",
+      "BRAND NAME": "GLIMIL-PM2 TAB",
+      "CONTAIN": "Glimepiride 2 Mg + Pioglitazone 15 Mg + Metformin 500 Mg (SR) Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "90",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-67",
+    "name": "ITRAZOAL 100 CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/ITRAZOAL 100 CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "67",
+      "BRAND NAME": "ITRAZOAL 100 CAP",
+      "CONTAIN": "Itraconazole 100 Mg Capsule",
+      "PACK": "1*10 CAP (MONO)",
+      "MRP": "180",
+      "BOX PACK": "10*1*10 CAP"
+    }
+  },
+  {
+    "id": "product-68",
+    "name": "ITRAZOAL 200 CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/ITRAZOAL 200 CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "68",
+      "BRAND NAME": "ITRAZOAL 200 CAP",
+      "CONTAIN": "Itraconazole 200 Mg Capsule",
+      "PACK": "1*10 CAP (MONO)",
+      "MRP": "260",
+      "BOX PACK": "10*1*10 CAP"
+    }
+  },
+  {
+    "id": "product-69",
+    "name": "IVADIL 5 MG TAB",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/IVADIL 5 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "69",
+      "BRAND NAME": "IVADIL 5 MG TAB",
+      "CONTAIN": "Ivabradine Hydrochloride 5 mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "220",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-70",
+    "name": "LEVERAL 500 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/LEVERAL 500 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "70",
+      "BRAND NAME": "LEVERAL 500 TAB",
+      "CONTAIN": "Levetiracetam 500 Mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "130",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-71",
+    "name": "LINAZ-M 2.5/500 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/LINAZ-M 2.5-500 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "71",
+      "BRAND NAME": "LINAZ-M 2.5/500 TAB",
+      "CONTAIN": "Linagliptin 2.5 Mg + Metformin Hydrochloride 500 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "190",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-72",
+    "name": "LINAZ 5 MG TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/LINAZ 5 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "72",
+      "BRAND NAME": "LINAZ 5 MG TAB",
+      "CONTAIN": "Linagliptin 5 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "210",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-73",
+    "name": "LINEZOC 600 MG TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/LINEZOC 600 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "73",
+      "BRAND NAME": "LINEZOC 600 MG TAB",
+      "CONTAIN": "Linezolid 600 Mg Tablet",
+      "PACK": "1*10 Tab",
+      "MRP": "380",
+      "BOX PACK": "10*1*10 Tab"
+    }
+  },
+  {
+    "id": "product-74",
+    "name": "LULIZEAL 30 GM CREAM",
+    "category": "Cream & Ointment",
+    "sku": "",
+    "image": "/images/products/LULIZEAL 30 GM CREAM.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "74",
+      "BRAND NAME": "LULIZEAL 30 GM CREAM",
+      "CONTAIN": "Luliconazole 1.0 % Cream",
+      "PACK": "30 GM",
+      "MRP": "210",
+      "BOX PACK": "20*30 GM"
+    }
+  },
+  {
+    "id": "product-75",
+    "name": "LULIZEAL 50 GM CREAM",
+    "category": "Cream & Ointment",
+    "sku": "",
+    "image": "/images/products/LULIZEAL 50 GM BOX.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "75",
+      "BRAND NAME": "LULIZEAL 50 GM CREAM",
+      "CONTAIN": "Luliconazole 1.0 % Cream",
+      "PACK": "50 GM",
+      "MRP": "280",
+      "BOX PACK": "10*50 GM"
+    }
+  },
+  {
+    "id": "product-76",
+    "name": "METOZEAL-AM 50/5 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/METOZEAL-AM 50-5 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "76",
+      "BRAND NAME": "METOZEAL-AM 50/5 TAB",
+      "CONTAIN": "Metoprolol Succinate 50 Mg + Amlodipine 5 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "75",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-77",
+    "name": "METOZEAL-XL 25 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/METOZEAL XL 25 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "77",
+      "BRAND NAME": "METOZEAL-XL 25 TAB",
+      "CONTAIN": "Metoprolol Succinate 25 Mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "45",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-78",
+    "name": "METOZEAL-XL 50 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/METOZEAL XL 50 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "78",
+      "BRAND NAME": "METOZEAL-XL 50 TAB",
+      "CONTAIN": "Metoprolol Succinate 50 Mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "60",
+      "BOX PACK": "20*10 TAB"
+    }
+  },
+  {
+    "id": "product-79",
+    "name": "MONTEZEAL-FX TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/MONTEZEAL-FX TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "79",
+      "BRAND NAME": "MONTEZEAL-FX TAB",
+      "CONTAIN": "Montelukast 10 Mg + Fexofenadine 120 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "190",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-80",
+    "name": "MONTEZEAL-L TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/MONTEZEAL-L TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "80",
+      "BRAND NAME": "MONTEZEAL-L TAB",
+      "CONTAIN": "Levocetrizine 5 Mg + Montelukast 10 Mg Tablet",
+      "PACK": "1*10 TAB (AA) (MONO)",
+      "MRP": "150",
+      "BOX PACK": "10*1*10 TAB"
+    }
+  },
+  {
+    "id": "product-81",
+    "name": "MULTIVITAZ SOFTGEL CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/MULTIVITAZ SOFTGEL CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "81",
+      "BRAND NAME": "MULTIVITAZ SOFTGEL CAP",
+      "CONTAIN": "Multivitamine + Multiminerals + Antioxidant Capsule (SOFT GELATIN)",
+      "PACK": "1*10 SG CAP (MONO)",
+      "MRP": "130",
+      "BOX PACK": "10*1*10 CAP"
+    }
+  },
+  {
+    "id": "product-82",
+    "name": "NAPRON-D 500 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/NAPRON-D 500 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "82",
+      "BRAND NAME": "NAPRON-D 500 TAB",
+      "CONTAIN": "Naproxen 500 mg + Domperidone 10 mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "95",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-83",
+    "name": "NEBIZEAL 2.5 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/NEBIZEAL 2.5 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "83",
+      "BRAND NAME": "NEBIZEAL 2.5 TAB",
+      "CONTAIN": "Nebivolol Hydrochloride 2.5 mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "60",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-84",
+    "name": "NEBIZEAL 5 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/NEBIZEAL 5 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "84",
+      "BRAND NAME": "NEBIZEAL 5 TAB",
+      "CONTAIN": "Nebivolol Hydrochloride 5 mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "80",
+      "BOX PACK": "10*10  TAB"
+    }
+  },
+  {
+    "id": "product-85",
+    "name": "NEUROZEAL D3 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/NEUROZEAL-D3 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "85",
+      "BRAND NAME": "NEUROZEAL D3 TAB",
+      "CONTAIN": "Alpha Lipoic Acid 100 Mg + Folic Acid 1.5 Mg + Methylcobalamin 1500 Mcg + Pyridoxine\nHydrochloride 3 Mg + Vitamin D3 1000 Iu Tablet",
+      "PACK": "1*10 TAB",
+      "MRP": "150",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-86",
+    "name": "NEUROZEAL-LC TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/NEUROZEAL-LC TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "86",
+      "BRAND NAME": "NEUROZEAL-LC TAB",
+      "CONTAIN": "L-Carnitine L- Tartrate 500 Mg + Methylcobalamin 1500 Mcg + Folic Acid\n1.5 Mg Tablet",
+      "PACK": "1*10 TAB (MONO)",
+      "MRP": "230",
+      "BOX PACK": "10*1*10 TAB"
+    }
+  },
+  {
+    "id": "product-87",
+    "name": "NITROL 2.6 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/NITROL 2.6 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "87",
+      "BRAND NAME": "NITROL 2.6 TAB",
+      "CONTAIN": "Nitroglycerin Controlled Release 2.6 Mg Tablet",
+      "PACK": "1*30 TAB (BTL)",
+      "MRP": "150",
+      "BOX PACK": "25*30 TAB"
+    }
+  },
+  {
+    "id": "product-88",
+    "name": "OLMIZ 20 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/OLMIZ 20 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "88",
+      "BRAND NAME": "OLMIZ 20 TAB",
+      "CONTAIN": "Olmesartan Medoxomil 20 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "80",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-89",
+    "name": "OLMIZ 40 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/OLMIZ 40 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "89",
+      "BRAND NAME": "OLMIZ 40 TAB",
+      "CONTAIN": "Olmesartan Medoxomil 40 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "120",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-90",
+    "name": "OMEGLO 4G + MIX CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/OMEGLO 4G + MIX CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "90",
+      "BRAND NAME": "OMEGLO 4G + MIX CAP",
+      "CONTAIN": "Omega-3 Fatty Acid + Green Tea Extract + Ginkgo Biloba + Ginseng + Grape Seed Extract + Antioxidants + Vitamins + minerals + Trace Elements Softgel Capsule",
+      "PACK": "1*10 CAP (BL)(MONO)",
+      "MRP": "245",
+      "BOX PACK": "10*1*10 CAP"
+    }
+  },
+  {
+    "id": "product-91",
+    "name": "OMEZEAL 20 CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/OMEZEAL 20 CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "91",
+      "BRAND NAME": "OMEZEAL 20 CAP",
+      "CONTAIN": "Omeprazole 20 Mg Capsule",
+      "PACK": "1*10 CAP (ALM)",
+      "MRP": "32",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-92",
+    "name": "OMEZEAL-D CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/OMEZEAL-D CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "92",
+      "BRAND NAME": "OMEZEAL-D CAP",
+      "CONTAIN": "Omeprazole 20 Mg + Domeperidone 10 Mg Capsule",
+      "PACK": "1*10 CAP (ALM)",
+      "MRP": "65",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-93",
+    "name": "POVIZEAL 15 GM OINTMENT",
+    "category": "Cream & Ointment",
+    "sku": "",
+    "image": "/images/products/POVIZEAL OINTMENT.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "93",
+      "BRAND NAME": "POVIZEAL 15 GM OINTMENT",
+      "CONTAIN": "Povidone - Iodine 5% W/W Ointment",
+      "PACK": "15 GM",
+      "MRP": "35",
+      "BOX PACK": "30*15 GM"
+    }
+  },
+  {
+    "id": "product-94",
+    "name": "PRAZOCURE-XL 5 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/PRAZOCURE XL 5 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "94",
+      "BRAND NAME": "PRAZOCURE-XL 5 TAB",
+      "CONTAIN": "Prazosin Hydrochloride 5 mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "120",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-95",
+    "name": "PREBOZ CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/PREBOZ CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "95",
+      "BRAND NAME": "PREBOZ CAP",
+      "CONTAIN": "Pre-biotic & Pro-biotic Capsule",
+      "PACK": "1*10 CAP (AA)",
+      "MRP": "160",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-96",
+    "name": "PREGACURE-M 75/750 CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/PREGACURE-M 75-750 CAPSULE.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "96",
+      "BRAND NAME": "PREGACURE-M 75/750 CAP",
+      "CONTAIN": "Pegabalin 75 Mg + Methylcobalamin 750 Mcg Capsule",
+      "PACK": "1*10 CAP (AA)(MONO)",
+      "MRP": "175",
+      "BOX PACK": "10*1*10 CAP"
+    }
+  },
+  {
+    "id": "product-97",
+    "name": "PREGACURE-NT TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/PREGACURE-NT TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "97",
+      "BRAND NAME": "PREGACURE-NT TAB",
+      "CONTAIN": "Nortriptyline Hydrochloride 10 Mg + Pregabalin Ip 75 Mg Tablet",
+      "PACK": "1*10 TAB",
+      "MRP": "160",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-98",
+    "name": "PREGACURE-NTM TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/PREGACURE-NTM TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "98",
+      "BRAND NAME": "PREGACURE-NTM TAB",
+      "CONTAIN": "Nortriptyline Hydrochloride 10 Mg + Pregabalin 75 Mg + Methylcobalamin 1500 Mcg Tablet",
+      "PACK": "1*10 TAB (MONO)",
+      "MRP": "190",
+      "BOX PACK": "10*1*10 TAB"
+    }
+  },
+  {
+    "id": "product-99",
+    "name": "RABEZEAL-DSR CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/RABEZEAL-DSR CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "99",
+      "BRAND NAME": "RABEZEAL-DSR CAP",
+      "CONTAIN": "Rabeprazole Sodium 20 Mg + Domeperidone 10 Mg Capsule",
+      "PACK": "1*10 CAP (ALM)",
+      "MRP": "130",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-100",
+    "name": "RABEZEAL-LS CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/RABEZEAL-LS CAPSULE.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "100",
+      "BRAND NAME": "RABEZEAL-LS CAP",
+      "CONTAIN": "Rabeprazole 20 Mg + Levosulpiride 75 Mg Capsule",
+      "PACK": "1*10 CAP (AA)",
+      "MRP": "160",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-101",
+    "name": "RAMEZ 2.5 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/RAMEZ 2.5 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "101",
+      "BRAND NAME": "RAMEZ 2.5 TAB",
+      "CONTAIN": "Ramipril 2.5 mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "55",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-102",
+    "name": "RAMEZ 5 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/RAMEZ 5.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "102",
+      "BRAND NAME": "RAMEZ 5 TAB",
+      "CONTAIN": "Ramipril 5 mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "90",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-103",
+    "name": "RENOZAC 500 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/RENOZOC 500 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "103",
+      "BRAND NAME": "RENOZAC 500 TAB",
+      "CONTAIN": "Ranolazine 500 mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "120",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-104",
+    "name": "ROSUCURE 10 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ROSUCURE 10 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "104",
+      "BRAND NAME": "ROSUCURE 10 TAB",
+      "CONTAIN": "Rosuvastatin 10 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "100",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-105",
+    "name": "ROSUCURE 20 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ROSUCURE 20 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "105",
+      "BRAND NAME": "ROSUCURE 20 TAB",
+      "CONTAIN": "Rosuvastatin 20 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "150",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-106",
+    "name": "ROSUCURE 5  TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ROSUCURE 5 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "106",
+      "BRAND NAME": "ROSUCURE 5  TAB",
+      "CONTAIN": "Rosucure 5 mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "80",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-107",
+    "name": "ROSUCURE-A 10/75 CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/ROSUCURE-A 10-75 CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "107",
+      "BRAND NAME": "ROSUCURE-A 10-75 CAP",
+      "CONTAIN": "Rosuvastatin 10 Mg + Aspirin 75 Mg Capsule",
+      "PACK": "1*10 CAP (AA)",
+      "MRP": "65",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-108",
+    "name": "ROSUCURE-CV 10/75 CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/ROSUCURE-CV 10-75 CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "108",
+      "BRAND NAME": "ROSUCURE-CV 10/75 CAP",
+      "CONTAIN": "Rosuvastatin 10 Mg + Clopidogrel 75 Mg Capsule",
+      "PACK": "1*10 CAP (AA)",
+      "MRP": "130",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-109",
+    "name": "ROSUCURE-F 10/160 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ROSUCURE-F 10-160.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "109",
+      "BRAND NAME": "ROSUCURE-F 10/160 TAB",
+      "CONTAIN": "Rosuvastatin 10 Mg + Fenofibrate 160 Mg Tab",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "140",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-110",
+    "name": "ROSUCURE-GOLD 10 CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/ROSUCURE-GOLD 10 CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "110",
+      "BRAND NAME": "ROSUCURE-GOLD 10 CAP",
+      "CONTAIN": "Rosuvastatin 10 Mg + Clopidogrel 75 Mg + Aspirin 75 Mg capsule",
+      "PACK": "1*10 CAP  (AA)",
+      "MRP": "145",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-111",
+    "name": "ROSUCURE-GOLD 20 CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/ROSUCURE-GOLD 20 CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "111",
+      "BRAND NAME": "ROSUCURE-GOLD 20 CAP",
+      "CONTAIN": "Rosuvastatin 20 Mg + Clopidogrel 75 Mg + Aspirin 75 Mg Capsule",
+      "PACK": "1*10 CAP (AA)",
+      "MRP": "165",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-112",
+    "name": "SACVIL 50 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/SACVIL 50 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "112",
+      "BRAND NAME": "SACVIL 50 TAB",
+      "CONTAIN": "Sacubitril 24 Mg + Valsatan 26 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "380",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-113",
+    "name": "SITAZ 100 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/SITAZ 100 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "113",
+      "BRAND NAME": "SITAZ 100 TAB",
+      "CONTAIN": "Sitagliptin 100 Mg Tablet",
+      "PACK": "1*7 TAB (BL)",
+      "MRP": "290",
+      "BOX PACK": "10*7 TAB"
+    }
+  },
+  {
+    "id": "product-114",
+    "name": "SILORIDE 8 D CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/SILORIDE 8 D CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "114",
+      "BRAND NAME": "SILORIDE 8 D CAP",
+      "CONTAIN": "Dutasteride 0.5 Mg + Silodosin 8 Mg Capsule",
+      "PACK": "1*10 CAP (MONO)",
+      "MRP": "300",
+      "BOX PACK": "10*1*10 CAP"
+    }
+  },
+  {
+    "id": "product-115",
+    "name": "SILYZYME-Q 10 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/SILYZYME-Q 10 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "115",
+      "BRAND NAME": "SILYZYME-Q 10 TAB",
+      "CONTAIN": "Silymarin Extract, Vitamin C+ L-Carnitine L-Tartrate+Choline Bitartrate, Inositol+ N-Acetyl L-Cystine + L-Ornithine Hydrochloride+ L-Glutathione+ Vitamin E+ Calcium Pantothenate + Zinc + Vitamin B Complex + Iron + Co Enzyme Q10 + Folic Acid + Selenium + vitamin D3 Tablet",
+      "PACK": "1*10 TAB (MONO)",
+      "MRP": "315",
+      "BOX PACK": "10*1*10 TAB"
+    }
+  },
+  {
+    "id": "product-116",
+    "name": "SITAZ-M 50/500 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/SITAZ-M 50-500 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "116",
+      "BRAND NAME": "SITAZ-M 50/500 TAB",
+      "CONTAIN": "Sitagliptin 50 mg + Metformin Hydrochloride 500 mg Tablet",
+      "PACK": "1*15 TAB (BL)",
+      "MRP": "310",
+      "BOX PACK": "10*15 TAB"
+    }
+  },
+  {
+    "id": "product-117",
+    "name": "SODICURE 500 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/SODICURE 500 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "117",
+      "BRAND NAME": "SODICURE 500 TAB",
+      "CONTAIN": "Sodium Bicarbonate 500 Mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "35",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-118",
+    "name": "TELTAZ 20 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/TELTAZ 20.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "118",
+      "BRAND NAME": "TELTAZ 20 TAB",
+      "CONTAIN": "Telmisartan 20 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "40",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-119",
+    "name": "TELTAZ-H 40 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/TELTAZ-H 40 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "119",
+      "BRAND NAME": "TELTAZ-H 40 TAB",
+      "CONTAIN": "Telmisartan 40 Mg + Hydrochlorthiazide 12.5 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "90",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-120",
+    "name": "TELTAZ 40 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/TELTAZ 40.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "120",
+      "BRAND NAME": "TELTAZ 40 TAB",
+      "CONTAIN": "Telmisartan 40 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "72",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-121",
+    "name": "TELTAZ 80 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/TELTAZ 80 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "121",
+      "BRAND NAME": "TELTAZ 80 TAB",
+      "CONTAIN": "Telmisartan 80 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "100",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-122",
+    "name": "TELTAZ-TRIO 40 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/TELTAZ-TRIO 40 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "122",
+      "BRAND NAME": "TELTAZ-TRIO 40 TAB",
+      "CONTAIN": "Telmisartan 40 Mg + Hydrochlorthiazide 12.5 Mg + Amlodipine 5 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "110",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-123",
+    "name": "TELTAZ-AM TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/TELTAZ-AM TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "123",
+      "BRAND NAME": "TELTAZ-AM TAB",
+      "CONTAIN": "Telmisartan 40 mg + Amlodipine 5 mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "110",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-124",
+    "name": "TELTAZ-CT 40/12.5 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/TELTAZ-CT 40-12.5 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "124",
+      "BRAND NAME": "TELTAZ-CT 40/12.5 TAB",
+      "CONTAIN": "Telmisartan 40 Mg + Chlorthalidone 12.5 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "90",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-125",
+    "name": "TELTAZ-CT 40/6.25 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/TELTAZ-CT 40-6.25 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "125",
+      "BRAND NAME": "TELTAZ-CT 40/6.25 TAB",
+      "CONTAIN": "Telmisartan 40 Mg + Chlorthalidone 6.25 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "80",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-126",
+    "name": "TELTAZ-M 25 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/TELTAZ-M 25 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "126",
+      "BRAND NAME": "TELTAZ-M 25 TAB",
+      "CONTAIN": "Telmisartan 40 Mg + Metoprolol 25 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "110",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-127",
+    "name": "TELTAZ-M 50 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/TELTAZ-M 50 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "127",
+      "BRAND NAME": "TELTAZ-M 50 TAB",
+      "CONTAIN": "Telmisartan 40 Mg + Metoprolol 50 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "125",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-128",
+    "name": "TELTAZ-TRIO 40/12.5/10 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/TELTAZ-TRIO 40-12.5-10 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "128",
+      "BRAND NAME": "TELTAZ-TRIO 40/12.5/10 TAB",
+      "CONTAIN": "Telmisartan 40 Mg + Chlorthalidone 12.5 Mg Cilnidipine 10 mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "150",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-129",
+    "name": "TENZEAL 20 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/TENZEAL 20 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "129",
+      "BRAND NAME": "TENZEAL 20 TAB",
+      "CONTAIN": "Teneligliptin 20 Mg Tablet",
+      "PACK": "1*14 TAB (AA)",
+      "MRP": "130",
+      "BOX PACK": "10*14 TAB"
+    }
+  },
+  {
+    "id": "product-130",
+    "name": "TENZEAL-M 500 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/TENZEAL-M 500 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "130",
+      "BRAND NAME": "TENZEAL-M 500 TAB",
+      "CONTAIN": "Teneligliptin 20 Mg + Metformin 500 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "130",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-131",
+    "name": "THYROZEAL 100 MCG TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/THYROZEAL 100.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "131",
+      "BRAND NAME": "THYROZEAL 100 MCG TAB",
+      "CONTAIN": "Thyroxine Sodium 100 mcg Tablet",
+      "PACK": "1*100 TAB (BTL)",
+      "MRP": "147.84",
+      "BOX PACK": "1*10*100 TAB"
+    }
+  },
+  {
+    "id": "product-132",
+    "name": "THYROZEAL 25 MCG TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/THYROZEAL 25 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "132",
+      "BRAND NAME": "THYROZEAL 25 MCG TAB",
+      "CONTAIN": "Thyroxine Sodium 25 mcg Tablet",
+      "PACK": "1*100 TAB (BTL)",
+      "MRP": "110",
+      "BOX PACK": "1*10*100 TAB"
+    }
+  },
+  {
+    "id": "product-133",
+    "name": "THYROZEAL 50 MCG TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/THYROZEAL 50.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "133",
+      "BRAND NAME": "THYROZEAL 50 MCG TAB",
+      "CONTAIN": "Thyroxine Sodium 50 mcg Tablet",
+      "PACK": "1*100 TAB (BTL)",
+      "MRP": "115",
+      "BOX PACK": "1*10*100 TAB"
+    }
+  },
+  {
+    "id": "product-134",
+    "name": "THYROZEAL 75 MCG TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/THYROZEAL 75 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "134",
+      "BRAND NAME": "THYROZEAL 75 MCG TAB",
+      "CONTAIN": "Thyroxine Sodium 75 mcg Tablet",
+      "PACK": "1*100 TAB (BTL)",
+      "MRP": "161.28",
+      "BOX PACK": "1*10*100 TAB"
+    }
+  },
+  {
+    "id": "product-135",
+    "name": "TICAZEAL 90 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/TICAZEAL 90 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "135",
+      "BRAND NAME": "TICAZEAL 90 TAB",
+      "CONTAIN": "Ticagrelor 90 mg Tablet",
+      "PACK": "1*14 TAB (BL)(MONO)",
+      "MRP": "360",
+      "BOX PACK": "10*1*14 TAB"
+    }
+  },
+  {
+    "id": "product-136",
+    "name": "TOFAZEAL 5 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/TOFAZEAL 5 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "136",
+      "BRAND NAME": "TOFAZEAL 5 TAB",
+      "CONTAIN": "Tofacitinib citrate 5 mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "400",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-137",
+    "name": "TORZEAL 10  TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/TORZEAL 10 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "137",
+      "BRAND NAME": "TORZEAL 10  TAB",
+      "CONTAIN": "Torsemide 10 mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "50",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-138",
+    "name": "TORZEAL 20 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/TORZEAL 20 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "138",
+      "BRAND NAME": "TORZEAL 20 TAB",
+      "CONTAIN": "Torsemide 20 mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "80",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-139",
+    "name": "TRIMEZ 35 MR TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/TRIMEZ 35 MR TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "139",
+      "BRAND NAME": "TRIMEZ 35 MR TAB",
+      "CONTAIN": "Trimetazidine Hydrochloride 35 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "80",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-140",
+    "name": "URIZEAL-D TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/URIZEAL-D.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "140",
+      "BRAND NAME": "URIZEAL-D TAB",
+      "CONTAIN": "Tamsulosin Hcl 0.4 Mg + Dutasteride 0.5 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "130",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-141",
+    "name": "URIZEAL 0.4 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/URIZEAL 0.4 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "141",
+      "BRAND NAME": "URIZEAL 0.4 TAB",
+      "CONTAIN": "Tamsulosin Hydrochloride 0.4 Mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "90",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-142",
+    "name": "URSOZEAL 300  TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/URSOZEAL 300 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "142",
+      "BRAND NAME": "URSOZEAL 300  TAB",
+      "CONTAIN": "Ursodeoxycholic Acid 300 mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "370",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-143",
+    "name": "VILDACURE 100  TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/VILDACURE 100 SR TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "143",
+      "BRAND NAME": "VILDACURE 100  TAB",
+      "CONTAIN": "Vildagliptin 100 mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "145",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-144",
+    "name": "VILDACURE 50 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/VILDACURE 50 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "144",
+      "BRAND NAME": "VILDACURE 50 TAB",
+      "CONTAIN": "Vildagliptin 50 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "105",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-145",
+    "name": "VILDACURE-FORTE 50/1000TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/VILDACURE-FORTE 50-1000 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "145",
+      "BRAND NAME": "VILDACURE-FORTE 50/1000 TAB",
+      "CONTAIN": "Vildagliptin 50 mg + Metformin Hydrochloride 1000 mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "140",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-146",
+    "name": "VILDACURE-M 50/500 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/VILDACURE-M 50-500 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "146",
+      "BRAND NAME": "VILDACURE-M 50/500 TAB",
+      "CONTAIN": "Vildagliptin 50 mg + Metformin Hydrochloride 500 mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "130",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-147",
+    "name": "VOGLITIC 0.3 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/VOGLITIC 0.3 MD TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "147",
+      "BRAND NAME": "VOGLITIC 0.3 TAB",
+      "CONTAIN": "Voglibose 0.3 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "75",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-148",
+    "name": "VOGLITIC-GM 1/0.3 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/VOGLITIC-GM 1-0.3 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "148",
+      "BRAND NAME": "VOGLITIC-GM 1/0.3 TAB",
+      "CONTAIN": "Glimepiride 1 Mg + Metformin Hydrochloride 500 Mg + Voglibose 0.3 Mg\nTablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "90",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-149",
+    "name": "VOGLITIC-GM 2/0.3 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/VOGLITIC-GM 2-0.3.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "149",
+      "BRAND NAME": "VOGLITIC-GM 2/0.3 TAB",
+      "CONTAIN": "Glimepiride 2 Mg + Metformin Hydrochloride 500 Mg + Voglibose 0.3 Mg\nTablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "100",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-150",
+    "name": "VOGLITIC-GM 3/0.3 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/VOGLITIC-GM 3-0.3 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "150",
+      "BRAND NAME": "VOGLITIC-GM 3/0.3 TAB",
+      "CONTAIN": "Glimepiride 3 Mg + Metformin Hydrochloride 500 Mg + Voglibose 0.3 Mg\nTablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "160",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-151",
+    "name": "VOGLITIC-M 0.3/500 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/VOGLITIC-M 0.3-500 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "151",
+      "BRAND NAME": "VOGLITIC-M 0.3/500 TAB",
+      "CONTAIN": "Voglibose 0.3 Mg Tablet + Metformin Hydrochloride 500 mg Tablet",
+      "PACK": "1*10 TAB (BL)",
+      "MRP": "100",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-152",
+    "name": "ZEALCOVIT TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ZEALCOVITE TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "152",
+      "BRAND NAME": "ZEALCOVIT TAB",
+      "CONTAIN": "Multivitamine + Multiminerals + Grape Seed + Antioxidants Tablet",
+      "PACK": "1*15 TAB (AA)(MONO)",
+      "MRP": "160",
+      "BOX PACK": "5*2*15 TAB"
+    }
+  },
+  {
+    "id": "product-153",
+    "name": "ZEALMOIST PLUS LOTION",
+    "category": "Cream & Ointment",
+    "sku": "",
+    "image": "/images/products/ZEALMOIST PLUS LOTION.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "153",
+      "BRAND NAME": "ZEALMOIST PLUS LOTION",
+      "CONTAIN": "Alovera + Honey + Vitamin E + Tea tree Oil Lotion",
+      "PACK": "100 ML",
+      "MRP": "135",
+      "BOX PACK": "12*100 ML"
+    }
+  },
+  {
+    "id": "product-154",
+    "name": "ZEMET 500 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ZEMET 500 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "154",
+      "BRAND NAME": "ZEMET 500 TAB",
+      "CONTAIN": "Metformin 500 Mg Tablet",
+      "PACK": "1*15 TAB (BL)",
+      "MRP": "34",
+      "BOX PACK": "20*15 TAB"
+    }
+  },
+  {
+    "id": "product-155",
+    "name": "ZEPANTA-D TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ZEPANTA-D TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "155",
+      "BRAND NAME": "ZEPANTA-D TAB",
+      "CONTAIN": "Pantoprazole 40 Mg + Domperidone 10 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "130",
+      "BOX PACK": "20*10 TAB"
+    }
+  },
+  {
+    "id": "product-156",
+    "name": "ZEPANTA-DSR CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/ZEPANTA DSR.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "156",
+      "BRAND NAME": "ZEPANTA-DSR CAP",
+      "CONTAIN": "Pantoprazole 40 mg + domperidone 30 mg Capsule",
+      "PACK": "1*10 CAP (ALM)",
+      "MRP": "130",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-157",
+    "name": "ZEPANTA-IT CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/ZEPANTA-IT CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "157",
+      "BRAND NAME": "ZEPANTA-IT CAP",
+      "CONTAIN": "Pantoprazole 40 mg + Itopride hydrochloride 150 mg Capsule",
+      "PACK": "1*10 CAP (AA)",
+      "MRP": "180",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-158",
+    "name": "ZEPANTA-LS CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/ZEPANTA-LS CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "158",
+      "BRAND NAME": "ZEPANTA-LS CAP",
+      "CONTAIN": "Pantoprazole 40 mg + Levosulpiride 75 mg Capsule",
+      "PACK": "1*10 CAP (AA)",
+      "MRP": "180",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-159",
+    "name": "ZEPENTA 40 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ZEPENTA 40 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "159",
+      "BRAND NAME": "ZEPENTA 40 TAB",
+      "CONTAIN": "Pantoprazole 40 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "110",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-160",
+    "name": "ZOSART 50 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ZOSART 50 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "160",
+      "BRAND NAME": "ZOSART 50 TAB",
+      "CONTAIN": "Losartan Potassium 50 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "55",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-161",
+    "name": "ZOSART - AM TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ZOSART-AM TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "161",
+      "BRAND NAME": "ZOSART - AM TAB",
+      "CONTAIN": "Losartan Potassium 50 mg + Amlodipine 5 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "70",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-162",
+    "name": "ZOSART-H TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ZOSART-H TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "162",
+      "BRAND NAME": "ZOSART-H TAB",
+      "CONTAIN": "Losartan Potassium 50 Mg + Hydrochlorothiazide\n12.5 Mg Tablet",
+      "PACK": "1*10 TAB (AA)",
+      "MRP": "75",
+      "BOX PACK": "10*10 TAB"
+    }
+  },
+  {
+    "id": "product-163",
+    "name": "ZEAL'S PILES CURE 30 GM CREAM",
+    "category": "Cream & Ointment",
+    "sku": "",
+    "image": "/images/products/ZEAL'S PILES CURE 30 GM CREAM.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "163",
+      "BRAND NAME": "ZEAL'S PILES CURE 30 GM CREAM",
+      "CONTAIN": "Calcium Dobesilate 0.25% w/w + Lignocaine Hydrochloride 3% w/w + Hydrocortisone Acetate 0.25% w/w + Zinc Oxide 5% w/w Cream",
+      "PACK": "30 GM",
+      "MRP": "100",
+      "BOX PACK": "20*30 GM"
+    }
+  },
+  {
+    "id": "product-164",
+    "name": "ZEAL'S FOOT CURE 75 GM CREAM",
+    "category": "Cream & Ointment",
+    "sku": "",
+    "image": "/images/products/ZEAL'S FOOT CURE 75 GM CREAM.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "164",
+      "BRAND NAME": "ZEAL'S FOOT CURE 75 GM CREAM",
+      "CONTAIN": "Urea 10% w/w + Lactic Acid 10% w/w + Propylene Glycol 10% w/w + Light Liquid Paraffin 10% w/w Cream",
+      "PACK": "75 GM",
+      "MRP": "160",
+      "BOX PACK": "8*75 GM"
+    }
+  },
+  {
+    "id": "product-165",
+    "name": "BECOZEAL-PLUS CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/BECOZEAL-PLUS CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "165",
+      "BRAND NAME": "BECOZEAL-PLUS CAP",
+      "CONTAIN": "Vitamin B-Complex + Mineral + Trace Elements Capsule",
+      "PACK": "1*10 CAP (ALM)",
+      "MRP": "110",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-166",
+    "name": "CALCIZEAL-CT CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/CALCIZEAL-CT CAPSULE.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "166",
+      "BRAND NAME": "CALCIZEAL-CT CAP",
+      "CONTAIN": "Calcium Carbonate 500 Mg + Calcitriol 0.25 Mcg + Zinc 7.5 Mg Capsule",
+      "PACK": "1*10 CAP (BL)",
+      "MRP": "190",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-167",
+    "name": "CALCIZEAL-D3 60K CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/CALCIZEAL-D3 60K CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "167",
+      "BRAND NAME": "CALCIZEAL-D3 60K CAP",
+      "CONTAIN": "Cholecalciferol (Vitamin D3) 60000 Capsule",
+      "PACK": "1*4 SG CAP\n(MONO)",
+      "MRP": "135",
+      "BOX PACK": "10*1*4 CAP"
+    }
+  },
+  {
+    "id": "product-168",
+    "name": "CALCIZEAL-D3 SACHET",
+    "category": "Sachet",
+    "sku": "",
+    "image": "/images/products/CALCIZEAL-D3 60K SACHETS.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "168",
+      "BRAND NAME": "CALCIZEAL-D3\nSACHET",
+      "CONTAIN": "Cholecalciferol (Vitamin D3) 60000 Sachet",
+      "PACK": "1*10\nSACHET",
+      "MRP": "38",
+      "BOX PACK": "10*1 GM"
+    }
+  },
+  {
+    "id": "product-169",
+    "name": "CALCIZEAL-K2 7M TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/CALCIZEAL-K2 7M TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "169",
+      "BRAND NAME": "CALCIZEAL-K2 7M TAB",
+      "CONTAIN": "Calcium Citrate 1000 Mg + Calcitriol 0.25Mcg + Vitamin K2-7 45 Mcg + Magnesium 50Mg + Zinc\n7.5 Mg + Methylcobalamin 1000 Mg + L- Methylfolate Calcium Tablet",
+      "PACK": "1*10 TAB (MONO)",
+      "MRP": "160",
+      "BOX PACK": "10*1*10 TAB"
+    }
+  },
+  {
+    "id": "product-170",
+    "name": "CALCIZEAL-ROSE TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/CALCIZEAL-ROSE TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "170",
+      "BRAND NAME": "CALCIZEAL-ROSE TAB",
+      "CONTAIN": "Glucosamine Sulphate 500 Mg + Collagen Peptide Type-II 200 Mg + Chondroitin Sulphate Sodium 100 Mg + Rosehip Extract 10 Mg + Ginger Extract 10 Mg + Boswellia Extract 2 Mg + Vitamin D3 200 IU + Vitamin B12- 1 Mcg + Zinc 5 Mg + Copper 1 Mcg + Sodium Hyaluronate 30 Mg",
+      "PACK": "1*10 TAB (MONO)",
+      "MRP": "325",
+      "BOX PACK": "10*1*10 TAB"
+    }
+  },
+  {
+    "id": "product-171",
+    "name": "E-VITAZ 400 CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/E-VITAZ 400 CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "171",
+      "BRAND NAME": "E-VITAZ 400 CAP",
+      "CONTAIN": "Vitamin E 400 Capsule (SOFT GELATIN)",
+      "PACK": "1*10 SG\nCAP (3",
+      "MRP": "90",
+      "BOX PACK": "5*3*10 CAP"
+    }
+  },
+  {
+    "id": "product-172",
+    "name": "FERZEAL-XT TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/FERZEAL-XT TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "172",
+      "BRAND NAME": "FERZEAL-XT TAB",
+      "CONTAIN": "Ferrous Ascorbate 100 Mg + Folic 1.5 Mg Tablet",
+      "PACK": "1*10 TAB (MONO)",
+      "MRP": "140",
+      "BOX PACK": "10*1*10 TAB"
+    }
+  },
+  {
+    "id": "product-173",
+    "name": "MULTIVITAZ SOFTGEL CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/MULTIVITAZ SOFTGEL CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "173",
+      "BRAND NAME": "MULTIVITAZ SOFTGEL CAP",
+      "CONTAIN": "Multivitamine + Multiminerals + Antioxidant Capsule (SOFT GELATIN)",
+      "PACK": "1*10 SG CAP",
+      "MRP": "130",
+      "BOX PACK": "10*1*10 CAP"
+    }
+  },
+  {
+    "id": "product-174",
+    "name": "NEUROZEAL-LC TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/NEUROZEAL-LC TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "174",
+      "BRAND NAME": "NEUROZEAL-LC TAB",
+      "CONTAIN": "L-Carnitine L- Tartrate 500 Mg + Methylcobalamin 1500 Mcg + Folic Acid 1.5 Mg Tablet",
+      "PACK": "1*10 TAB (MONO)",
+      "MRP": "230",
+      "BOX PACK": "10*1*10 TAB"
+    }
+  },
+  {
+    "id": "product-175",
+    "name": "SILYZYME-Q 10 TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/SILYZYME-Q 10 TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "175",
+      "BRAND NAME": "SILYZYME-Q 10 TAB",
+      "CONTAIN": "Silymarin Extract, Vitamin C+ L-Carnitine L- Tartrate+Choline Bitartrate, Inositol+ N-Acetyl L- Cystine + L-Ornithine Hydrochloride+ L- Glutathione+ Vitamin E+ Calcium Pantothenate + Zinc + Vitamin B Complex + Iron + Co Enzyme Q10\n+ Folic Acid + Selenium + vitamin D3 Tablet",
+      "PACK": "1*10 TAB (MONO)",
+      "MRP": "315",
+      "BOX PACK": "10*1*10 TAB"
+    }
+  },
+  {
+    "id": "product-176",
+    "name": "OMEGLO 4G + MIX CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/OMEGLO 4G + MIX CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "176",
+      "BRAND NAME": "OMEGLO 4G + MIX CAP",
+      "CONTAIN": "Omega-3 Fatty Acid + Green Tea Extract + Ginkgo Biloba + Ginseng + Grape Seed Extract + Antioxidants + Vitamins + minerals + Trace\nElements Softgel Capsule",
+      "PACK": "1*10 CAP (BL)",
+      "MRP": "245",
+      "BOX PACK": "10*1*10 CAP"
+    }
+  },
+  {
+    "id": "product-177",
+    "name": "PREBOZ CAP",
+    "category": "Capsule",
+    "sku": "",
+    "image": "/images/products/PREBOZ CAP.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "177",
+      "BRAND NAME": "PREBOZ CAP",
+      "CONTAIN": "Pre-biotic & Pro-biotic Capsule",
+      "PACK": "1*10 CAP (AA)",
+      "MRP": "160",
+      "BOX PACK": "10*10 CAP"
+    }
+  },
+  {
+    "id": "product-178",
+    "name": "ZEALCOVIT TAB",
+    "category": "Tablet",
+    "sku": "",
+    "image": "/images/products/ZEALCOVITE TAB.jpg",
+    "shortDescription": "",
+    "description": "",
+    "attributes": {
+      "SR.NO": "178",
+      "BRAND NAME": "ZEALCOVIT TAB",
+      "CONTAIN": "Multivitamine + Multiminerals + Grape Seed + Antioxidants Tablet",
+      "PACK": "1*15 TAB (2 MONO)",
+      "MRP": "160",
+      "BOX PACK": "5*2*15 TAB"
+    }
+  }
+]
