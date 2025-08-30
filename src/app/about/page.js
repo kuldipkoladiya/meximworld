@@ -3,6 +3,28 @@
 import { motion } from "framer-motion";
 
 export default function About() {
+    const teamMembers = [
+        {
+            name: "Harshit Dhorajiya",
+            role: "Founder",
+            img: "/images/team/member1.jpg",
+        },
+        {
+            name: "Raj Vaghasiya",
+            role: "Export Executive",
+            img: "/images/team/member2.jpg",
+        },
+        {
+            name: "Kuldip Koladiya",
+            role: "Technical Lead",
+            img: "/images/team/member4.jpg",
+        },
+        {
+            name: "Kuldip Koladiya",
+            role: "Tech",
+            img: "/images/team/member3.jpg",
+        },
+    ];
     return (
         <div className="bg-white text-gray-800">
             {/* Hero Section */}
@@ -117,28 +139,46 @@ export default function About() {
                         Meet Our <span className="text-[#0891b2]">Team</span>
                     </motion.h2>
 
-                    <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-10">
-                        {[1, 2, 3].map((member, i) => (
+                    {/* Mobile: Horizontal Scroll | Desktop: Grid */}
+                    <div className="flex md:flex-wrap justify-center gap-6 overflow-x-auto md:overflow-visible scrollbar-hide">
+                        {teamMembers.map((member, i) => (
                             <motion.div
                                 key={i}
-                                className="bg-white border border-gray-200 p-6 rounded-xl shadow-md hover:shadow-lg transition-transform hover:scale-105"
-                                initial={{ opacity: 0, y: 50 }}
-                                whileInView={{ opacity: 1, y: 0 }}
-                                transition={{ duration: 0.6, delay: i * 0.2 }}
-                                viewport={{ once: true }}
+                                className="
+            relative group overflow-hidden cursor-pointer rounded-[3rem]
+            transition-all duration-500 flex-shrink-0
+            h-72 md:h-80
+            w-[80%] sm:w-[60%] md:w-28
+          "
+                                whileHover={{ width: 250 }}
                             >
                                 <img
-                                    src={`https://randomuser.me/api/portraits/men/${20 + i}.jpg`}
-                                    alt="Team Member"
-                                    className="w-24 h-24 mx-auto rounded-full mb-4 border-4 border-[#0891b2]"
+                                    src={member.img}
+                                    alt={member.name}
+                                    className="w-full h-full object-cover rounded-[3rem]"
                                 />
-                                <h4 className="text-xl font-semibold text-gray-800">John Doe</h4>
-                                <p className="text-gray-500">CEO & Founder</p>
+
+                                {/* Overlay for desktop */}
+                                <div className="hidden md:block absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition duration-500"></div>
+
+                                {/* Text for desktop hover */}
+                                <div className="hidden md:block absolute bottom-4 left-4 right-4 text-white text-left opacity-0 group-hover:opacity-100 transition-opacity duration-500">
+                                    <h4 className="text-lg font-semibold">{member.name}</h4>
+                                    <p className="text-sm">{member.role}</p>
+                                </div>
+
+                                {/* Always visible text on mobile */}
+                                <div className="block md:hidden absolute bottom-4 left-4 right-4 text-white text-left bg-black/50 rounded-xl p-2">
+                                    <h4 className="text-lg font-semibold">{member.name}</h4>
+                                    <p className="text-sm">{member.role}</p>
+                                </div>
                             </motion.div>
                         ))}
                     </div>
                 </div>
             </section>
+
+
         </div>
     );
 }
