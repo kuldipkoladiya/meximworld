@@ -37,7 +37,7 @@ export default function Home() { const features = [
     const certifications = [
         { name: "START UP INDIA", img: "/images/certifications/startupindia.webp" },
         { name: "INDIA MART", img: "/images/certifications/india mart.webp" },
-        { name: "UDHDHYAM", img: "/images/certifications/UDHDHYAM.webp" },
+        { name: "UDYAM", img: "/images/certifications/UDHDHYAM.webp" },
         { name: "DRUG LICENCE", img: "/images/certifications/DRUG LICENCE.webp" },
         { name: "GST", img: "/images/certifications/gst.webp" },
         { name: "FSSAI", img: "/images/certifications/pngegg.png" },
