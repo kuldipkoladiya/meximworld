@@ -1,8 +1,11 @@
 "use client";
-
+import { ShieldCheck, Globe2, Truck } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { motion } from "framer-motion";
+import { Swiper, SwiperSlide } from "swiper/react";
+import { Autoplay } from "swiper/modules";
+import "swiper/css";
 
 // Animation Variants
 const fadeUp = {
@@ -14,7 +17,36 @@ const fadeUp = {
     }),
 };
 
-export default function Home() {
+export default function Home() { const features = [
+    {
+        title: "Quality Assurance",
+        desc: "WHO-GMP certified products ensuring safety & effectiveness.",
+        icon: <ShieldCheck className="w-10 h-10 text-cyan-400" />,
+    },
+    {
+        title: "Global Reach",
+        desc: "Strong trade networks across 40+ countries worldwide.",
+        icon: <Globe2 className="w-10 h-10 text-cyan-400" />,
+    },
+    {
+        title: "Trusted Logistics",
+        desc: "Efficient supply chain ensuring on-time delivery.",
+        icon: <Truck className="w-10 h-10 text-cyan-400" />,
+    },
+];
+    const certifications = [
+        { name: "START UP INDIA", img: "/images/certifications/startupindia.webp" },
+        { name: "INDIA MART", img: "/images/certifications/india mart.webp" },
+        { name: "UDHDHYAM", img: "/images/certifications/UDHDHYAM.webp" },
+        { name: "DRUG LICENCE", img: "/images/certifications/DRUG LICENCE.webp" },
+        { name: "GST", img: "/images/certifications/gst.webp" },
+        { name: "FSSAI", img: "/images/certifications/pngegg.png" },
+        { name: "WHO", img: "/images/certifications/who.jpeg" },
+        { name: "GMP", img: "/images/certifications/Gmp.webp" },
+        { name: "IEC", img: "/images/certifications/iec.webp" },
+    ];
+
+
     return (
         <main className="bg-white text-gray-900 overflow-hidden">
             {/* ================= HERO SECTION ================= */}
@@ -133,51 +165,41 @@ export default function Home() {
             </section>
 
             {/* ================= WHY CHOOSE US ================= */}
-            <section className="py-20 bg-gradient-to-r from-gray-50 to-cyan-50">
+            <section className="py-20 bg-blue-900 text-white relative overflow-hidden">
+                {/* Background gradient */}
+                <div className="absolute inset-0 bg-gradient-to-r from-blue-800 via-blue-900 to-cyan-900 opacity-90"></div>
+
                 <motion.div
-                    className="container mx-auto px-6 md:px-20 text-center"
+                    className="relative container mx-auto px-6 md:px-20 text-center"
                     initial="hidden"
                     whileInView="visible"
                     viewport={{ once: true }}
-                    variants={fadeUp}
                 >
-                    <h2 className="text-3xl font-bold text-blue-900 mb-12">
-                        Why Choose Mexim World?
+                    <h2 className="text-3xl md:text-4xl font-bold mb-16">
+                        Why Choose <span className="text-cyan-400">Mexim World?</span>
                     </h2>
-                    <div className="grid md:grid-cols-3 gap-10">
-                        {[
-                            {
-                                title: "Quality Assurance",
-                                desc: "WHO-GMP certified products ensuring safety & effectiveness.",
-                                icon: "💊",
-                            },
-                            {
-                                title: "Global Reach",
-                                desc: "Strong trade networks across 40+ countries worldwide.",
-                                icon: "🌍",
-                            },
-                            {
-                                title: "Trusted Logistics",
-                                desc: "Efficient supply chain ensuring on-time delivery.",
-                                icon: "🚚",
-                            },
-                        ].map((item, i) => (
+
+                    <div className="grid md:grid-cols-3 gap-12">
+                        {features.map((item, i) => (
                             <motion.div
                                 key={i}
-                                variants={fadeUp}
-                                custom={i}
-                                className="bg-white p-8 rounded-xl shadow-md hover:shadow-xl transition"
+                                className="bg-white/10 backdrop-blur-lg p-10 rounded-2xl shadow-lg hover:scale-105 hover:shadow-2xl transition transform"
                             >
-                                <div className="text-5xl mb-4">{item.icon}</div>
-                                <h3 className="text-xl font-semibold text-blue-900 mb-2">
+                                <div className="flex justify-center mb-6">
+                                    <div className="w-20 h-20 flex items-center justify-center rounded-full bg-cyan-500/20">
+                                        {item.icon}
+                                    </div>
+                                </div>
+                                <h3 className="text-xl font-semibold text-cyan-300 mb-3">
                                     {item.title}
                                 </h3>
-                                <p className="text-gray-600">{item.desc}</p>
+                                <p className="text-gray-200">{item.desc}</p>
                             </motion.div>
                         ))}
                     </div>
                 </motion.div>
             </section>
+
 
             {/* ================= PRODUCTS ================= */}
             <section className="py-20">
@@ -266,29 +288,42 @@ export default function Home() {
                     initial="hidden"
                     whileInView="visible"
                     viewport={{ once: true }}
-                    variants={fadeUp}
                 >
                     <h2 className="text-3xl font-bold text-blue-900 mb-6">
                         Our Certifications
                     </h2>
                     <p className="text-gray-700 mb-10 max-w-2xl mx-auto">
-                        We are committed to maintaining the highest quality standards
-                        globally. Our operations are backed by international certifications.
+                        We are committed to maintaining the highest quality standards globally.
+                        Our operations are backed by international certifications.
                     </p>
-                    <div className="flex flex-wrap justify-center gap-10">
-                        {["WHO-GMP", "ISO 9001:2015", "FDA Approved", "CE Certified"].map(
-                            (cert, i) => (
+
+                    {/* Swiper Slider */}
+                    <Swiper
+                        modules={[Autoplay]}
+                        autoplay={{ delay: 2500, disableOnInteraction: false }}
+                        loop={true}
+                        spaceBetween={30}
+                        slidesPerView={2}
+                        breakpoints={{
+                            640: { slidesPerView: 3 },
+                            1024: { slidesPerView: 4 },
+                        }}
+                    >
+                        {certifications.map((cert, i) => (
+                            <SwiperSlide key={i}>
                                 <motion.div
-                                    key={i}
-                                    variants={fadeUp}
-                                    custom={i}
-                                    className="bg-white px-6 py-4 rounded-lg shadow-md hover:shadow-lg transition text-blue-900 font-semibold"
+                                    className="bg-white p-6 rounded-xl shadow-md hover:shadow-xl transition flex flex-col items-center justify-center"
                                 >
-                                    {cert}
+                                    <img
+                                        src={cert.img}
+                                        alt={cert.name}
+                                        className="w-36 h-32 object-contain mb-4"
+                                    />
+                                    <p className="text-blue-900 font-semibold">{cert.name}</p>
                                 </motion.div>
-                            )
-                        )}
-                    </div>
+                            </SwiperSlide>
+                        ))}
+                    </Swiper>
                 </motion.div>
             </section>
 
