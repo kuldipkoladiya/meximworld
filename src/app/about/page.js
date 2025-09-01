@@ -20,8 +20,8 @@ export default function About() {
             img: "/images/team/member4.jpg",
         },
         {
-            name: "Kuldip Koladiya",
-            role: "Tech",
+            name: "vivek Desai",
+            role: "Logistics Executive",
             img: "/images/team/member3.jpg",
         },
     ];

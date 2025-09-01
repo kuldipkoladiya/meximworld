@@ -1,12 +1,23 @@
 "use client";
 import { motion, AnimatePresence } from "framer-motion";
 import { Mail, Phone, MapPin, Send, CheckCircle, XCircle } from "lucide-react";
-import { useState } from "react";
+import { useState, useMemo } from "react";
+import Select from "react-select";
+import ReactCountryFlag from "react-country-flag";
+import countryList from "react-select-country-list";
 
 export default function Contact() {
-    const [form, setForm] = useState({ name: "", email: "", message: "" });
+    const [form, setForm] = useState({
+        name: "",
+        email: "",
+        country: "",
+        message: "",
+    });
     const [popup, setPopup] = useState({ show: false, success: false, message: "" });
-
+    const options = useMemo(() => countryList().getData(), []);
+    const handleCountryChange = (selected) => {
+        setForm({ ...form, country: selected.label });
+    };
     const handleChange = (e) => {
         setForm({ ...form, [e.target.name]: e.target.value });
     };
@@ -24,7 +35,7 @@ export default function Contact() {
             const data = await res.json();
             if (data.success) {
                 setPopup({ show: true, success: true, message: "Inquiry sent successfully!" });
-                setForm({ name: "", email: "", message: "" });
+                setForm({ name: "", email: "", country: "", message: "" });
             } else {
                 setPopup({ show: true, success: false, message: "Failed: " + data.error });
             }
@@ -128,6 +139,23 @@ export default function Contact() {
                             placeholder="Your Email"
                             className="w-full p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-[#0891b2]"
                             required
+                        />
+                        <Select
+                            options={options}
+                            value={options.find((opt) => opt.label === form.country) || null}
+                            onChange={handleCountryChange}
+                            placeholder="Select Country"
+                            className="w-full"
+                            formatOptionLabel={(country) => (
+                                <div className="flex items-center gap-2">
+                                    <ReactCountryFlag
+                                        countryCode={country.value}
+                                        svg
+                                        style={{ fontSize: "1.5em" }}
+                                    />
+                                    <span>{country.label}</span>
+                                </div>
+                            )}
                         />
                         <motion.textarea
                             whileFocus={{ scale: 1.02 }}

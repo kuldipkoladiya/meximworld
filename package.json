@@ -14,7 +14,10 @@
     "next": "15.1.6",
     "nodemailer": "^7.0.5",
     "react": "^19.0.0",
+    "react-country-flag": "^3.1.0",
     "react-dom": "^19.0.0",
+    "react-select": "^5.10.2",
+    "react-select-country-list": "^2.2.3",
     "swiper": "^11.2.10"
   },
   "devDependencies": {
