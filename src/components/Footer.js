@@ -1,15 +1,22 @@
 "use client";
-import {Facebook, Twitter, Linkedin, Mail, Phone, MapPin, Instagram} from "lucide-react";
+import Image from "next/image";
+import { Facebook, Twitter, Linkedin, Mail, Phone, MapPin, Instagram } from "lucide-react";
 
 export default function Footer() {
     return (
         <footer className="bg-blue-950 text-white pt-12">
             <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-4 gap-10">
 
-                {/* Company Info */}
-                <div>
-                    <h2 className="text-2xl font-bold text-teal-400">Mexim World</h2>
-                    <p className="mt-4 text-gray-300 leading-relaxed">
+                {/* Company Info with Logo */}
+                <div className="flex flex-col items-start">
+                    <Image
+                        src="/images/logo.png"   // <-- put your logo path here
+                        alt="Mexim World Logo"
+                        width={180}              // <-- make it big
+                        height={80}
+                        className="mb-4"
+                    />
+                    <p className="mt-2 text-gray-300 leading-relaxed max-w-xs">
                         Trusted global partner in pharmaceutical import and export.
                         Delivering quality products with trust & reliability worldwide.
                     </p>
@@ -38,14 +45,14 @@ export default function Footer() {
                 <div>
                     <h2 className="text-xl font-semibold text-teal-400 mb-4">Follow Us</h2>
                     <div className="flex gap-4">
-                        <a href="https://www.instagram.com/meximworld?igsh=MWI1bWNhc3VhN2lwYQ%3D%3D&utm_source=qr " className="p-2 bg-blue-900 rounded-full hover:bg-teal-500 transition">
-                            <Instagram size={20} />
+                        <a href="https://www.instagram.com/meximworld?igsh=MWI1bWNhc3VhN2lwYQ%3D%3D&utm_source=qr" className="p-2 bg-blue-900 rounded-full hover:bg-teal-500 transition">
+                            <Instagram size={22} />
                         </a>
                         <a href="https://x.com/meximworld?s=21" className="p-2 bg-blue-900 rounded-full hover:bg-teal-500 transition">
-                            <Twitter size={20} />
+                            <Twitter size={22} />
                         </a>
-                        <a href="https://www.linkedin.com/in/mexim-world-a95663381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app " className="p-2 bg-blue-900 rounded-full hover:bg-teal-500 transition">
-                            <Linkedin size={20} />
+                        <a href="https://www.linkedin.com/in/mexim-world-a95663381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" className="p-2 bg-blue-900 rounded-full hover:bg-teal-500 transition">
+                            <Linkedin size={22} />
                         </a>
                     </div>
                 </div>

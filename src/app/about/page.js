@@ -36,7 +36,7 @@ export default function About() {
                     className="absolute inset-0"
                     style={{
                         backgroundImage:
-                            "url('https://images.unsplash.com/photo-1522202176988-66273c2fd55f')",
+                            "url('https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWJvdXQlMjB1c3xlbnwwfHwwfHx8MA%3D%3D')",
                         backgroundSize: "cover",
                         backgroundPosition: "center",
                     }}
