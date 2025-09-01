@@ -3,15 +3,6 @@ import { useRef, useEffect } from "react";
 import { motion } from "framer-motion";
 
 export default function About() {
-    const scrollRef = useRef(null);
-    const cardRefs = useRef([]);
-
-    useEffect(() => {
-        if (window.innerWidth < 768 && cardRefs.current[2]) {
-            // scroll into view 3rd card on mobile
-            cardRefs.current[2].scrollIntoView({ behavior: "smooth", inline: "center" });
-        }
-    }, []);
     const teamMembers = [
         {
             name: "Harshit Dhorajiya",
@@ -148,20 +139,16 @@ export default function About() {
                         Meet Our <span className="text-[#0891b2]">Team</span>
                     </motion.h2>
 
-                    {/* Mobile: Horizontal Scroll | Desktop: Grid */}
-                    <div
-                        ref={scrollRef}
-                        className="flex md:flex-wrap justify-center gap-6 overflow-x-auto md:overflow-visible scrollbar-hide scroll-smooth"
-                    >
+                    {/* Same layout for mobile + desktop */}
+                    <div className="grid grid-cols-2 sm:grid-cols-3 md:flex md:flex-wrap justify-center gap-6">
                         {teamMembers.map((member, i) => (
                             <motion.div
                                 key={i}
-                                ref={el => (cardRefs.current[i] = el)} // store ref for each card
                                 className="
             relative group overflow-hidden cursor-pointer rounded-[3rem]
-            transition-all duration-500 flex-shrink-0
-            h-72 md:h-80
-            w-[80%] sm:w-[60%] md:w-28
+            transition-all duration-500
+            h-64 sm:h-72 md:h-80
+            w-full sm:w-full md:w-28
           "
                                 whileHover={{ width: 250 }}
                             >
@@ -181,15 +168,18 @@ export default function About() {
                                 </div>
 
                                 {/* Always visible text on mobile */}
-                                <div className="block md:hidden absolute bottom-4 left-4 right-4 text-white text-left bg-black/50 rounded-xl p-2">
-                                    <h4 className="text-lg font-semibold">{member.name}</h4>
-                                    <p className="text-sm">{member.role}</p>
+                                <div className="block md:hidden absolute inset-0 flex items-end">
+                                    <div className="w-full bg-gradient-to-t from-black/70 to-transparent rounded-[1rem] p-4">
+                                        <h4 className="text-lg font-semibold text-white">{member.name}</h4>
+                                        <p className="text-sm text-gray-200">{member.role}</p>
+                                    </div>
                                 </div>
                             </motion.div>
                         ))}
                     </div>
                 </div>
             </section>
+
 
 
         </div>
