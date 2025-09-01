@@ -3,6 +3,15 @@ import { useRef, useEffect } from "react";
 import { motion } from "framer-motion";
 
 export default function About() {
+    const scrollRef = useRef(null);
+    const cardRefs = useRef([]);
+
+    useEffect(() => {
+        if (window.innerWidth < 768 && cardRefs.current[2]) {
+            // scroll into view 3rd card on mobile
+            cardRefs.current[2].scrollIntoView({ behavior: "smooth", inline: "center" });
+        }
+    }, []);
     const teamMembers = [
         {
             name: "Harshit Dhorajiya",
@@ -140,10 +149,14 @@ export default function About() {
                     </motion.h2>
 
                     {/* Mobile: Horizontal Scroll | Desktop: Grid */}
-                    <div className="flex md:flex-wrap justify-center gap-6 overflow-x-auto md:overflow-visible scrollbar-hide">
+                    <div
+                        ref={scrollRef}
+                        className="flex md:flex-wrap justify-center gap-6 overflow-x-auto md:overflow-visible scrollbar-hide scroll-smooth"
+                    >
                         {teamMembers.map((member, i) => (
                             <motion.div
                                 key={i}
+                                ref={el => (cardRefs.current[i] = el)} // store ref for each card
                                 className="
             relative group overflow-hidden cursor-pointer rounded-[3rem]
             transition-all duration-500 flex-shrink-0
