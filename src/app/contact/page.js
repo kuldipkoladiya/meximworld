@@ -102,7 +102,7 @@ export default function Contact() {
                         </div>
                         <div className="flex items-center gap-4">
                             <Mail className="w-6 h-6 text-[#0891b2]" />
-                            <span>contact@meximworld.com</span>
+                            <span>meximworld@gmail.com</span>
                         </div>
                     </div>
                 </motion.div>
