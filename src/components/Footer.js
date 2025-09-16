@@ -36,7 +36,7 @@ export default function Footer() {
                 {/* Contact Info */}
                 <div>
                     <h2 className="text-xl font-semibold text-teal-400 mb-4">Contact</h2>
-                    <p className="flex items-center gap-2 text-gray-300"><MapPin size={18} /> Surat, India</p>
+                    <p className="flex items-center gap-2 text-gray-300"><MapPin size={32} /> 428 4th Floor, Raghuvir Trade Center ,Saroli, Surat, Gujarat ,India</p>
                     <p className="flex items-center gap-2 text-gray-300 mt-2"><Mail size={18} /> meximworld@gmail.com</p>
                     <p className="flex items-center gap-2 text-gray-300 mt-2"><Phone size={18} /> +91 96241 68506</p>
                 </div>

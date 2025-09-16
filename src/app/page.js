@@ -107,7 +107,7 @@ export default function Home() { const features = [
                             animate={{ y: [0, -15, 0] }}
                             transition={{ duration: 4, repeat: Infinity }}
                         >
-                            <p className="text-blue-900 font-bold">100+ Countries Served</p>
+                            <p className="text-blue-900 font-bold">28+ Countries Served</p>
                         </motion.div>
 
                         <motion.div

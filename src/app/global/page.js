@@ -37,8 +37,8 @@ export default function GlobalPresence() {
             {/* Stats Section */}
             <div className="max-w-6xl mx-auto py-20 px-6 grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
                 {[
-                    { number: "50+", label: "Countries Served" },
-                    { number: "200+", label: "Global Clients" },
+                    { number: "28+", label: "Countries Served" },
+                    { number: "100+", label: "Global Clients" },
                     { number: "25+", label: "Years Experience" },
                     { number: "100%", label: "Quality Assurance" },
                 ].map((stat, i) => (
