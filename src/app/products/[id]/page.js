@@ -114,7 +114,7 @@ export default async function ProductDetailPage({ params }) {
                 </div>
                 <div className="mt-12">
                     <h3 className="text-2xl font-bold text-gray-900">Description :</h3>
-                    <p className="mt-2 text-base leading-relaxed text-gray-700">
+                    <p className="mt-2 text-base leading-relaxed text-gray-700 text-justify sm:text-left">
                         {product.description || product.shortDescription || "No description available."}
                     </p>
                 </div>
